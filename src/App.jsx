@@ -59,7 +59,6 @@ function App() {
                   <p>Email Address: <span>{profile.email} </span></p>
                 </div>
               </div>
-              <hr />
               <button className='Logout btn' onClick={logOut}>Log out</button>
             </div>
             <div className='fileupload'>
