@@ -1,0 +1,18 @@
+{
+    "web": {
+        "client_id": "1036483724964-pel9pkba0rvf9f7l9l0qbs33n4e0j30b.apps.googleusercontent.com",
+        "project_id": "carbon-syntax-418810",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "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",
+        "redirect_uris": [
+            "http://localhost:5173/",
+            "http://localhost/"
+        ],
+        "javascript_origins": [
+            "http://localhost:5173",
+            "http://localhost"
+        ]
+    }
+}
