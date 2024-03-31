@@ -139,7 +139,7 @@ function App() {
         </header>
         <form encType="multipart/form-data" className="createPost">
           <div className="post-header">
-            <label htmlFor="FileUpload">Select Files</label>
+            <label htmlFor="FileUpload">Select File</label>
             <button type="submit" id="post-btn" onClick={(e) => { e.preventDefault(); Post(e) }}>Upload</button>
           </div>
           <div className="main-div">
