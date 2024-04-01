@@ -68,7 +68,7 @@ function App() {
         ) : (
           <div className="App">
             <div className="auth">
-              <h2>React Google Login</h2>
+              <h2>Google Login</h2>
               <br />
               <button className='Login btn' onClick={login}>Sign in with Google 🚀 </button>
             </div>
